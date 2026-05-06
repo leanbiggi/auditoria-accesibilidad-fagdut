@@ -21,3 +21,5 @@ La evidencia detallada se encuentra organizada en la carpeta [/docs](./docs/):
 
 ## 📈 Conclusiones
 [cite_start]El trabajo identifica fortalezas y áreas de mejora prioritarias, especialmente en aspectos de contraste y etiquetado de imágenes, fundamentales para garantizar la inclusión digital en el ámbito gremial docente[cite: 56, 57, 58].
+* **[Listado de Herramientas](./herramientas/herramientas.md):** Detalle técnico de los softwares (NVDA, AXE, CCA) y metodologías aplicadas durante el testeo.
+* 
