@@ -16,7 +16,7 @@ Siguiendo los requisitos de aprobación, se empleó una combinación de testeo a
 
 ## 📂 Documentación del Proyecto
 La evidencia técnica detallada se encuentra organizada en las siguientes secciones:
-* **[Reporte de Errores (PDF)](./docs/GRILLA-REPORTE-Accesibilidad.pdf):** Versión optimizada para lectura rápida en navegador.
+* **[Reporte de Errores (PDF)](./docs/GRILLA  REPORTE errores Accesibilidad.pdf):** Versión optimizada para lectura rápida en navegador.
 * **[Grilla de Reporte Completa (Excel)](./docs/GRILLA%20REPORTE%20errores%20Accesibilidad.xlsx):** Documento original con el detalle técnico exhaustivo.
 * **[Guía de Normas](./docs/4-NORMAS%20WCAG2.2-para%20comprenderlas.pdf):** Documentación de apoyo basada en las **WCAG 2.2** para comprender los niveles de conformidad.
 * **[Evidencias Visuales](./evidencias/):** Capturas de pantalla de los fallos detectados durante el proceso de testing.
